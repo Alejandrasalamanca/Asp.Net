@@ -1,0 +1,9 @@
+c:\users\aleja\documents\visual studio 2013\Projects\aplicacion\aplicacion\bin\Debug\aplicacion.exe.config
+c:\users\aleja\documents\visual studio 2013\Projects\aplicacion\aplicacion\bin\Debug\aplicacion.exe
+c:\users\aleja\documents\visual studio 2013\Projects\aplicacion\aplicacion\bin\Debug\aplicacion.pdb
+c:\users\aleja\documents\visual studio 2013\Projects\aplicacion\aplicacion\obj\Debug\aplicacion.csprojResolveAssemblyReference.cache
+c:\users\aleja\documents\visual studio 2013\Projects\aplicacion\aplicacion\obj\Debug\aplicacion.Form1.resources
+c:\users\aleja\documents\visual studio 2013\Projects\aplicacion\aplicacion\obj\Debug\aplicacion.Properties.Resources.resources
+c:\users\aleja\documents\visual studio 2013\Projects\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.GenerateResource.Cache
+c:\users\aleja\documents\visual studio 2013\Projects\aplicacion\aplicacion\obj\Debug\aplicacion.exe
+c:\users\aleja\documents\visual studio 2013\Projects\aplicacion\aplicacion\obj\Debug\aplicacion.pdb
